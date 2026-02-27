@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nowsw0951.github.io/sitemap.xml
