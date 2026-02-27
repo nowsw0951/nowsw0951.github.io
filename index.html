@@ -1,1 +1,122 @@
-<html>a</html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+  <title>NowSw — Indie game developer</title>
+  <meta name="description" content="NowSw is an independent game developer. We build cozy, thoughtful puzzle games." />
+
+  <!-- Canonical -->
+  <link rel="canonical" href="https://nowsw.github.io/" />
+
+  <!-- hreflang -->
+  <link rel="alternate" hreflang="en" href="https://nowsw.github.io/" />
+  <link rel="alternate" hreflang="ja" href="https://nowsw.github.io/jp/" />
+  <link rel="alternate" hreflang="x-default" href="https://nowsw.github.io/" />
+
+  <!-- Robots -->
+  <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="NowSw" />
+  <meta property="og:title" content="NowSw — Indie game developer" />
+  <meta property="og:description" content="Indie game developer. Cozy, thoughtful puzzle games." />
+  <meta property="og:url" content="https://nowsw.github.io/" />
+  <meta property="og:image" content="https://nowsw.github.io/assets/OGP_en.png" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:locale:alternate" content="ja_JP" />
+
+  <!-- Twitter/X Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="NowSw — Indie game developer" />
+  <meta name="twitter:description" content="Indie game developer. Cozy, thoughtful puzzle games." />
+  <meta name="twitter:image" content="https://nowsw.github.io/assets/OGP_en.png" />
+
+  <meta name="theme-color" content="#3A7CE9" />
+
+  <!-- Icons -->
+  <link rel="icon" href="https://nowsw.github.io/assets/favicon.png" />
+  <link rel="apple-touch-icon" href="https://nowsw.github.io/assets/apple-touch-icon.png" />
+  <link rel="stylesheet" href="assets/home.css">
+
+</head>
+
+<body>
+<header>
+  <div class="wrap nav">
+    <a class="brand" href="#top">
+      <span class="brand-badge">
+        <img src="assets/nowsw_icon.png" alt="NowSw">
+      </span>
+      <span>NowSw</span>
+    </a>
+
+    <nav class="links" aria-label="site">
+      <a href="#games">Games</a>
+      <a href="https://store.steampowered.com/app/4443340/" target="_blank" rel="noreferrer">Steam</a>
+    </nav>
+
+    <div class="lang" aria-label="language switch">
+      <a class="active" href="/index.html">EN</a>
+      <a href="/jp/index.html">JA</a>
+    </div>
+  </div>
+</header>
+
+<main id="top" class="wrap">
+  <div class="panel">
+    <h1>Cozy 3D Logic Puzzle — Play the Demo on Steam</h1>
+    <p class="lead">NowSw is an independent game developer. We build cozy, thoughtful puzzle games.</p>
+
+    <section id="games" aria-label="games">
+      <div class="game-card">
+        <a class="shot" href="https://store.steampowered.com/app/4443340/MichiSuji_Puzzle_Michi_Connect/" target="_blank" rel="noreferrer" aria-label="Open Michi-Suji Puzzle page">
+          <img src="assets/OGP_en.png" alt="Michi-Suji Puzzle screenshot">
+        </a>
+
+        <div class="game-body">
+          <p class="game-title">Michi-Suji Puzzle: Michi Connect</p>
+          <p class="game-desc">A cozy 3D logic puzzle where you push relay blocks and connect a glowing path from Start to Goal.</p>
+
+          <div class="cta">
+            <a class="btn primary" href="https://store.steampowered.com/app/4443340/MichiSuji_Puzzle_Michi_Connect/" target="_blank" rel="noreferrer">Play the Free Demo on Steam</a>
+            <a class="btn" href="https://www.youtube.com/@NowSw0951" target="_blank" rel="noreferrer">YouTube channel</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap footer-grid">
+    <div>© NowSw</div>
+    <div class="right">
+      <a href="#top">Back to top</a>
+      <a href="https://store.steampowered.com/app/4443340/MichiSuji_Puzzle_Michi_Connect/" target="_blank" rel="noreferrer">Michi-Suji Puzzle</a>
+      <a href="/jp/index.html">日本語</a>
+      <a href="/privacy.html">Privacy Policy</a>
+      <a href="/terms.html">Terms of Use</a>
+    </div>
+  </div>
+</footer>
+
+<!-- Optional: language auto-jump on first visit (turn OFF by default) -->
+<script>
+  // If you want auto-redirect, set true.
+  const enableAutoLangRedirect = false;
+
+  if (enableAutoLangRedirect) {
+    try {
+      const saved = localStorage.getItem("nowsw_lang");
+      if (!saved) {
+        const isJa = (navigator.language || "").toLowerCase().startsWith("ja");
+        if (isJa) location.replace("https://nowsw.github.io/jp/");
+      }
+    } catch (e) {}
+  }
+</script>
+</body>
+</html>
