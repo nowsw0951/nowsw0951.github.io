@@ -18,6 +18,7 @@
 }
 
 *{ box-sizing:border-box; }
+html{ scroll-padding-top: 82px; }
 body{
   margin:0;
   font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", "Helvetica Neue", Arial, "Noto Sans JP", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
@@ -99,7 +100,10 @@ header{
   color: var(--text);
 }
 
-main{ padding: 28px 0 10px; }
+main{
+  padding: 28px 0 10px;
+  scroll-margin-top: 82px;
+}
 .cat-defence{
   margin: 0 0 24px;
   border: 1px solid rgba(229,231,235,.95);
@@ -131,6 +135,13 @@ main{ padding: 28px 0 10px; }
   margin:0;
   font-size:24px;
   line-height:1.15;
+}
+.mini-game-note{
+  margin:6px 0 0;
+  color:var(--muted);
+  font-size:12px;
+  font-weight:800;
+  line-height:1.35;
 }
 .cat-defence-shell{
   display:grid;
