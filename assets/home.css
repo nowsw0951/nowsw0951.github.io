@@ -228,6 +228,9 @@ main{ padding: 28px 0 10px; }
   border-color:rgba(58,124,233,.55);
   background:rgba(58,124,233,.09);
 }
+.cat-card.is-cooling{
+  opacity:.78;
+}
 .cat-card button{
   border:0;
   background:transparent;
@@ -266,6 +269,17 @@ main{ padding: 28px 0 10px; }
   font-weight:800;
   line-height:1.2;
 }
+.cat-card-role{
+  display:block;
+  margin-top:2px;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+  color:#64748b;
+  font-size:10px;
+  font-weight:800;
+  line-height:1.15;
+}
 .cat-card-upgrade{
   padding:8px 9px;
   border:1px solid var(--line);
@@ -283,7 +297,7 @@ main{ padding: 28px 0 10px; }
 }
 .cat-defence-actions{
   display:grid;
-  grid-template-columns:1fr 1fr;
+  grid-template-columns:repeat(4, minmax(0, 1fr));
   gap:8px;
 }
 .cat-defence-button{
@@ -304,6 +318,9 @@ main{ padding: 28px 0 10px; }
   background:var(--blue);
   border-color:rgba(58,124,233,.5);
   color:#fff;
+}
+.cat-defence-button.danger{
+  color:#b42318;
 }
 .cat-defence-button:hover,
 .cat-card-upgrade:hover{
