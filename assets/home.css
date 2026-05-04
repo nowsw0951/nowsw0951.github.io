@@ -114,6 +114,9 @@ main{
   box-shadow: var(--shadow);
   overflow:hidden;
 }
+.panel + .mini-game{
+  margin-top:24px;
+}
 .cat-defence-head{
   display:flex;
   align-items:center;
