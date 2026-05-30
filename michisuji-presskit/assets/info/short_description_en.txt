@@ -1,0 +1,3 @@
+Michi-Suji Puzzle is a cozy 3D logic puzzle game where you move relay blocks to connect a path of light from start to goal.
+
+There is no single fixed answer. If the light reaches the goal, that is your solution.

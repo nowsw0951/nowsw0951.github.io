@@ -31,6 +31,12 @@
     <changefreq>hourly</changefreq>
   </url>
   <url>
+    <loc>https://nowsw0951.github.io/michisuji-presskit/</loc>
+    <priority>0.8</priority>
+    <lastmod>2026-05-30T00:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://nowsw0951.github.io/jp/terms.html</loc>
     <priority>0.7</priority>
     <lastmod>2026-02-28T01:43:14+09:00</lastmod>

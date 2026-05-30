@@ -1,0 +1,13 @@
+Michi-Suji Puzzle – Michi Connect is a cozy 3D logic puzzle game about finding where the light can reach.
+
+Move a small cat, push relay blocks, and connect a path of light from start to goal. The rules are simple: place the relay blocks close enough for the light to travel onward, and guide the light all the way to the goal.
+
+There is no single fixed answer. If the light reaches the goal, that is your solution.
+
+The game is not about quick reactions or fast controls. Take your time, observe the board carefully, and think about how to move the blocks so the light connects.
+
+As the game progresses, new mechanics are introduced gradually, including different block types, slopes, movement restrictions, and more complex stage layouts.
+
+The full version includes 100+ handcrafted puzzles, optional text and image hints, Retry and Undo features, and medal challenges for players who want to solve each stage in fewer moves.
+
+Michi-Suji Puzzle is designed for players who enjoy quiet, thoughtful puzzle games and the satisfying moment when everything finally connects.

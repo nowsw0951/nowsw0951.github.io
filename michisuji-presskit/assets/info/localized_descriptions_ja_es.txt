@@ -1,0 +1,75 @@
+Localized Descriptions
+
+==============================
+Japanese
+==============================
+
+Short Description:
+
+『みちすじパズル ～みちコネ～』は、小さな猫を動かしてリレーブロックを押し、スタートからゴールまで光の道をつなぐ3Dロジックパズルです。
+
+決まった答えはありません。
+光がゴールまで届けば、それがあなたの解答です。
+
+
+Long Description:
+
+『みちすじパズル ～みちコネ～』は、光が届く場所を見つけて、リレーブロックを動かし、スタートからゴールまで光の道をつなぐ3Dロジックパズルです。
+
+小さな猫を動かして、ブロックを押し、光がつながる場所を探しましょう。
+
+決まった答えはありません。
+光がゴールまで届けば、それがあなたの解答です。
+
+素早い操作や反射神経を求めるゲームではありません。
+落ち着いて盤面を観察し、「どう動かせば光がつながるか」を考えることが大切です。
+
+製品版には100以上の手作りパズルを収録予定です。
+テキストヒント、画像ヒント、Retry、Undo、少ない手数でのメダル挑戦など、じっくり試行錯誤しながら遊べる要素を用意しています。
+
+
+Streaming Policy:
+
+『みちすじパズル ～みちコネ～』のプレイ動画、実況動画、レビュー動画、ライブ配信、収益化動画の投稿は、個人・法人を問わず事前連絡なしで可能です。
+
+動画説明欄などにSteamストアページへのリンクを掲載していただけると嬉しいです。
+
+誹謗中傷、違法行為、公序良俗に反する内容での使用はご遠慮ください。
+
+
+==============================
+Spanish
+==============================
+
+Short Description:
+
+Michi-Suji Puzzle es un puzle lógico en 3D donde mueves bloques de relevo para conectar un camino de luz desde el inicio hasta la meta.
+
+No hay una única respuesta fija.
+Si la luz llega a la meta, esa es tu solución.
+
+
+Long Description:
+
+Michi-Suji Puzzle – Michi Connect es un puzle lógico en 3D donde encuentras hasta dónde puede llegar la luz.
+
+Mueve a un pequeño gato, empuja bloques de relevo y conecta un camino de luz desde el inicio hasta la meta.
+
+No hay una única respuesta fija.
+Si la luz llega a la meta, esa es tu solución.
+
+Este no es un juego de reflejos ni de acciones rápidas.
+Tómate tu tiempo, observa el tablero con calma y piensa cómo mover los bloques para conectar la luz.
+
+La versión completa incluye más de 100 puzles hechos a mano, pistas opcionales con texto e imágenes, funciones de reintento y deshacer, y desafíos de medallas para quienes quieran resolver cada fase con menos movimientos.
+
+Michi-Suji Puzzle está diseñado para jugadores que disfrutan de puzles tranquilos y reflexivos, y de ese momento satisfactorio en el que todo finalmente se conecta.
+
+
+Streaming Policy:
+
+Se permite publicar vídeos, reseñas, gameplays, retransmisiones en directo y contenido monetizado usando imágenes de Michi-Suji Puzzle – Michi Connect sin necesidad de permiso previo.
+
+Le agradeceríamos que incluyera un enlace a la página de Steam en la descripción del vídeo.
+
+Por favor, evite contenidos difamatorios, ilegales, ofensivos o inapropiados.
