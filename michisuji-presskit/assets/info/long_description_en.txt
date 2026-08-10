@@ -8,6 +8,6 @@ The game is not about quick reactions or fast controls. Take your time, observe 
 
 As the game progresses, new mechanics are introduced gradually, including different block types, slopes, movement restrictions, and more complex stage layouts.
 
-The full version includes 100+ handcrafted puzzles, optional text and image hints, Retry and Undo features, and medal challenges for players who want to solve each stage in fewer moves.
+The Steam release includes 100+ handcrafted puzzles, optional text and image hints, Retry and Undo features, and medal challenges for players who want to solve each stage in fewer moves.
 
 Michi-Suji Puzzle is designed for players who enjoy quiet, thoughtful puzzle games and the satisfying moment when everything finally connects.

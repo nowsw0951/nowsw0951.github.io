@@ -3,7 +3,7 @@ Key Features
 - Connect a path of light from start to goal
 - Move relay blocks and find your own solution
 - No single fixed answer
-- 100+ handcrafted puzzles in the full version
+- 100+ handcrafted puzzles
 - Optional text and image hints
 - Retry and Undo features for easy trial and error
 - Medal challenges for solving stages in fewer moves

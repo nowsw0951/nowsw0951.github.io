@@ -2,13 +2,13 @@ Michi-Suji Puzzle – Michi Connect
 Trailer Links
 
 Official Trailer - English:
-https://youtu.be/EWjB5MKGkGo
+https://youtu.be/rfwEnYI6iBs
 
 Official Trailer - Japanese:
-https://youtu.be/DC3xlEztkmg
+https://youtu.be/cEq02aAM0Vc
 
 Official Trailer - Spanish:
-https://youtu.be/54dT-KEPWHY
+https://youtu.be/Dn5f0BBOxQg
 
 Steam Store:
 https://store.steampowered.com/app/4443340/
@@ -19,3 +19,4 @@ https://nowsw0951.github.io/michisuji-presskit/
 Note:
 The English trailer may be included in this press kit ZIP if file size allows.
 Japanese and Spanish trailers are provided as links to keep the ZIP file lightweight.
+
